@@ -4,6 +4,7 @@
 切换区域到英国伦敦：ibmcloud target -r eu-gb
 
 IBM Shell一键脚本:
+
 wget https://raw.githubusercontent.com/ShadowsocksR-Live/shadowsocksr-native/master/install/ibmcloud.sh
 bash ibmcloud.sh
 
