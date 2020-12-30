@@ -1,5 +1,5 @@
 
-本脚本仅重启IBM Cloud Foundry中的APP项目
+本脚本仅重启IBM Cloud Foundry中的应用程序项目，
 
 详细教程视频（YouTube）：
 
