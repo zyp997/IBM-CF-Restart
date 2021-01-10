@@ -1,5 +1,5 @@
 
-本脚本仅重启IBM Cloud Foundry中的应用程序项目，
+本脚本仅重启IBM Cloud Foundry中的应用程序项目，每天重启一次！不更新应用程序！
 
 详细教程视频（YouTube）：https://youtu.be/Sz5f4YuWNUc
 
