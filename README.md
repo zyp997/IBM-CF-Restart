@@ -1,7 +1,7 @@
 
 本脚本仅重启IBM Cloud Foundry中的应用程序项目，
 
-详细教程视频（YouTube）：
+详细教程视频（YouTube）：https://youtu.be/Sz5f4YuWNUc
 
 切换区域到英国伦敦：ibmcloud target -r eu-gb
 
