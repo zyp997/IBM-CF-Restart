@@ -1,4 +1,5 @@
 
+
 本脚本仅重启IBM Cloud Foundry中的应用程序项目，每天重启一次！不更新应用程序！
 
 详细教程视频（YouTube）：https://youtu.be/Sz5f4YuWNUc
@@ -20,6 +21,7 @@ bash ibmcloud.sh
   感谢：
   
   ssrot脚本出自：ShadowsocksR-native
+  
   
   重启脚本参考：peng4740
   
